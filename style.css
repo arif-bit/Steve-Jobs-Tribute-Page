@@ -1,0 +1,31 @@
+
+#iconCenter{
+    text-align: center;
+    color: red;
+}
+
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.profession{
+    color: blue;
+}
+
+.midtext{
+letter-spacing: 2px;
+}
+
+.listext{
+    font-size: 15px;
+}
+
+li{
+    text-decoration: none;
+    font-size: 22px;
+}
