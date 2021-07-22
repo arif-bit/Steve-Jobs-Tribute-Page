@@ -13,6 +13,14 @@ hr{
     margin-bottom: 25px;
 }
 
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+
+
 .profession{
     color: blue;
 }
